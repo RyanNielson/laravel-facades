@@ -1,7 +1,7 @@
 {
   "name": "laravel-facades",
   "main": "./lib/laravel-facades",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "An atom.io package to view the source of built-in Laravel 4 facades",
   "repository": "https://github.com/RyanNielson/laravel-facades",
   "license": "MIT",
