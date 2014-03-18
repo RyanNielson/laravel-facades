@@ -39,7 +39,6 @@ module.exports =
 
     for facade in facadeKeys
       file = facades[facade]
-      console.log "#{facade} - #{file}"
       do (file) =>
         atom.workspaceView.command "laravel-facades:#{facade}", => @openFacade(file)
 
