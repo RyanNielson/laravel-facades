@@ -1,6 +1,6 @@
 # Laravel Facades
 
-An atom.io package to view the source of built-in Laravel 4 facades.
+An atom.io package to view the source of built-in Laravel 4 facades. (No longer maintained)
 
 ## Installation
 
